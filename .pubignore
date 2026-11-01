@@ -1,0 +1,7 @@
+tests/
+examples/
+.github/
+.pub-cache/
+.editorconfig
+CONTRIBUTING.md
+SECURITY.md

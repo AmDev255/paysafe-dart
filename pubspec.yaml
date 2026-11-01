@@ -1,0 +1,23 @@
+name: paysafe_tz
+description: Official PaySafe SDK for Dart servers. Mobile-money payments in Tanzania, refunds, control numbers, payment links, transfers and signed webhooks.
+version: 0.1.0
+homepage: https://paysafe.co.tz/docs
+repository: https://github.com/AmDev255/paysafe-dart
+issue_tracker: https://github.com/AmDev255/paysafe-dart/issues
+topics:
+  - payments
+  - tanzania
+  - mobile-money
+  - paysafe
+
+environment:
+  sdk: ^3.3.0
+
+dependencies:
+  crypto: ^3.0.3
+  http: ^1.2.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  shelf: ^1.4.1
+  test: ^1.25.0
